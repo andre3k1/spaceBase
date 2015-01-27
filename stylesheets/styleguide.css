@@ -1,0 +1,39 @@
+/*
+  spaceBase version: 1.0
+  http://spacebase.space150.com
+*/
+.sg-landmark {
+  margin-bottom: 75px;
+}
+
+.sg-heading {
+  padding: 0 0 .5em;
+  border-bottom: 2px solid #999999;
+}
+
+.sg-demo-block {
+  background-color: #999999;
+  color: white;
+  padding: 12.5px;
+  margin: 0 0 25px;
+}
+
+.sg-colors li {
+  border: 1px solid #ccc;
+  background: white;
+  padding: 6px;
+  margin-bottom: 12.5px;
+}
+
+.sg-swatch {
+  display: block;
+  height: 100px;
+  width: 100px;
+}
+
+.sg-field-container {
+  margin-bottom: 1em;
+}
+.sg-field-container label {
+  display: block;
+}
